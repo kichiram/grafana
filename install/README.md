@@ -57,7 +57,7 @@ Oct 25 07:54:43 ip-172-31-39-113.ap-northeast-1.compute.internal grafana-server[
 active (running)と表示されていれば成功です。
 #### 3. ブラウザでアクセスできるか確認します。
 ```
-http://<ホスト名>:9093
+http://<ホスト名>:3000
 ```
 下記のように表示されれば成功です。
 ![image](https://user-images.githubusercontent.com/91726058/138657629-08b0c8dd-ab78-4fd9-86e9-3cd6abdd71f5.png)
