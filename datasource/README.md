@@ -17,11 +17,11 @@ http://<ホスト名>:3030
 ![image](https://user-images.githubusercontent.com/91726058/172115543-ff33b71d-4c4f-43c0-b291-54b97427d268.png)
 
 「prometheus」を選択します。
-![image](https://user-images.githubusercontent.com/91726058/172115869-4a8bbc2e-a66f-4dbf-acbf-8f6e60dcd6f6.png)
+![image](https://user-images.githubusercontent.com/91726058/172117470-40afd1ba-bd58-4944-a93e-eef4a851752b.png)
 
 「URL」に ```http://localhost:9090``` を入力します
-![image](https://user-images.githubusercontent.com/91726058/172116405-83a7f3f0-1135-49a8-ba8f-b6d216e3db46.png)
+![image](https://user-images.githubusercontent.com/91726058/172117619-495a7144-5a2c-44d4-ba59-20981d954ae6.png)
 
 その他は初期値のまま最下部の「Save & test」ボタンを押します。
-![image](https://user-images.githubusercontent.com/91726058/172116630-9e814b9e-30f1-4bd1-8e03-e367083507e8.png)
+![image](https://user-images.githubusercontent.com/91726058/172117739-6f0770b1-8fdb-4d59-8e81-03ef005c7cb1.png)
 上記のように「Data source is working」と表示されればOKです。
