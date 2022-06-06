@@ -60,6 +60,6 @@ active (running)と表示されていれば成功です。
 http://<ホスト名>:3000
 ```
 下記のように表示されれば成功です。
-![image](https://user-images.githubusercontent.com/91726058/138657629-08b0c8dd-ab78-4fd9-86e9-3cd6abdd71f5.png)
+![image](https://user-images.githubusercontent.com/91726058/172114323-97e72975-668f-4021-8a5b-92414f5658d2.png)
 * ホスト名の確認方法は[EC2インスタンスへの接続方法](../../aws/connect_ec2_instance/README.md)の「2.2」をご確認ください。
 * 初期のusename/paswordはどちらも「admin」です。
