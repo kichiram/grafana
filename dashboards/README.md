@@ -13,6 +13,7 @@ http://<ホスト名>:3030
 ![image](https://user-images.githubusercontent.com/91726058/172120159-b1cd3c92-437d-493a-a5cc-7734f74de322.png)
 #### 4. パネルを作成
 「Add a new panel」を選択します。
+
 ![image](https://user-images.githubusercontent.com/91726058/172120333-b6ecd5da-e091-4452-9b0d-457b64b81680.png)
 #### 5. グラフを作成
 「Metrics browser」に「node:cpu_usage:irate_5m」を入力します。その他は初期値のまま右上の「Save」ボタンを押します。
