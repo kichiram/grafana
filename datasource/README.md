@@ -3,7 +3,7 @@
 #### 1. UIを起動
 UIを開きます。
 ```
-http://<ホスト名>:3030
+http://<ホスト名>:3000
 ```
 ![image](https://user-images.githubusercontent.com/91726058/172114323-97e72975-668f-4021-8a5b-92414f5658d2.png)
 #### 2. ログイン
